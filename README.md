@@ -1,8 +1,5 @@
 Weather Explorer App
 youssef sabry: 2023318
-daniel bobuh: 2023468
-Louis Esvenn Canilang: 2023429
-Terence Teche: 2023303
 
 A mobile weather application built with React Native and TypeScript. This app allows users to search for current weather conditions by city name or get weather updates based on their current location.
 
